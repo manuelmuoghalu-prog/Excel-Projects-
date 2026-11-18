@@ -4,7 +4,7 @@
 
 Job postings can reveal which skills employers want and what they pay for them. In this project I explored a real dataset of data-job listings to find out what separates higher-paying roles from lower-paying ones.
 
-**Workbook:** [2_Project_Analysis.xlsx](Project_Analysis.xlsx)
+**Workbook:** [1_Project_Analysis.xlsx](1_Project_Analysis.xlsx)
 
 ## Questions I Set Out to Answer
 
@@ -42,12 +42,12 @@ A 2023 dataset of real data-job postings, provided through a guided Excel course
 
 
 
-![Jobs query](/Images/Project_Analysis/2_Project_Analysis_Screenshot1.png)
+![Jobs query](/Images/Project-analysis/2_Project_Analysis_Screenshot1.png)
 
 
 
 
-![Skills query](/Images/Project-2/2_Project_Analysis_Screenshot2.png)
+![Skills query](/Images/Project-analysis/2_Project_Analysis_Screenshot2.png)
 
 
 
@@ -55,12 +55,12 @@ A 2023 dataset of real data-job postings, provided through a guided Excel course
 
 
 
-![Jobs table](/Images/Project-2/2_Project_Analysis_Screenshot3.png)
+![Jobs table](/Images/Project-analysis/2_Project_Analysis_Screenshot3.png)
 
 
 
 
-![Skills table](/Images/Project-2/2_Project_Analysis_Screenshot4.png)
+![Skills table](/Images/Project-analysis/2_Project_Analysis_Screenshot4.png)
 
 
 
@@ -71,7 +71,7 @@ A 2023 dataset of real data-job postings, provided through a guided Excel course
 
 
 
-![Skills vs salary](/Images/Project-2/2_Project_Analysis_Chart1.png)
+![Skills vs salary](/Images/Project-analysis/2_Project_Analysis_Chart1.png)
 
 
 
@@ -108,7 +108,7 @@ CALCULATE(
 
 
 
-![Salary by region](/Images/Project-2/2_Project_Analysis_Chart2.png)
+![Salary by region](/Images/Project-analysis/2_Project_Analysis_Chart2.png)
 
 
 
@@ -124,12 +124,12 @@ I added both cleaned tables to one data model and linked them through the `job_i
 
 
 
-![Data model](/Images/Project-2/2_Project_Analysis_Screenshot5.png)
+![Data model](/Images/Project-analysis/2_Project_Analysis_Screenshot5.png)
 
 
 
 
-![Power Pivot window](/Images/Project-2/2_Project_Analysis_Screenshot6.png)
+![Power Pivot window](/Images/Project-analysis/2_Project_Analysis_Screenshot6.png)
 
 
 
@@ -140,7 +140,7 @@ I added both cleaned tables to one data model and linked them through the `job_i
 
 
 
-![Top skills](/Images/Project-2/2_Project_Analysis_Chart3.png)
+![Top skills](/Images/Project-analysis/2_Project_Analysis_Chart3.png)
 
 
 
@@ -166,7 +166,7 @@ I added titles, hid the connecting line and changed the markers to diamonds.
 
 
 
-![Top 10 skills pay](/Images/Project-2/2_Project_Analysis_Chart4.png)
+![Top 10 skills pay](/Images/Project-analysis/2_Project_Analysis_Chart4.png)
 
 
 
