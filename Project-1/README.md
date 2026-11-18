@@ -11,6 +11,12 @@ An interactive Excel dashboard for comparing pay across data-related roles. Pick
 
 **Workbook:** [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx)
 
+## Excel Skills Used
+
+- **📉 Charts:** built a bar chart and a map chart to compare pay across roles and countries
+- **🧮 Formulas and Functions:** wrote array formulas with `MEDIAN`, `IF`, `FILTER`, `SEARCH` and `ISNUMBER` to pull salaries based on multiple conditions
+- **❎ Data Validation:** created drop-down lists so users can only pick valid job titles, countries and schedule types
+
 ## Data
 
 The data is a 2023 dataset of real data-job postings, provided through a guided Excel course. Each posting records:
