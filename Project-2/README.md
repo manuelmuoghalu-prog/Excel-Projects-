@@ -4,7 +4,7 @@
 
 Job postings can reveal which skills employers want and what they pay for them. In this project I explored a real dataset of data-job listings to find out what separates higher-paying roles from lower-paying ones.
 
-**Workbook:** [1_Project_Analysis.xlsx](1_Project_Analysis.xlsx)
+**Workbook:** [Project_Analysis.xlsx](Project_Analysis.xlsx)
 
 ## Questions I Set Out to Answer
 
