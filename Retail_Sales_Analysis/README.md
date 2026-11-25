@@ -18,8 +18,7 @@ An interactive Excel dashboard that analyses 1,000 retail transactions from 2023
 9. [Recommendations](#-recommendations)
 10. [How to Use the Dashboard](#-how-to-use-the-dashboard)
 11. [Tools and Skills Demonstrated](#-tools-and-skills-demonstrated)
-12. [Limitations](#-limitations)
-13. [Repository Structure](#-repository-structure)
+12. [Limitations](#-Limitations)
 14. [Author](#-author)
 ---
 
@@ -148,8 +147,8 @@ Shows total revenue for each month. Use it to spot seasonality and the strongest
 ### 4. Revenue by Product Category (bar chart)
 Compares total revenue across Beauty, Clothing and Electronics.
 
-![Revenue by Product Category](images/chart-revenue-by-category.png)
-> 📸 **Image to add:** the category bar chart. **Caption:** *Electronics and Clothing are almost level, with Beauty behind.*
+![Revenue by Product Category](Images/Chart_revenue_by_category.png)
+*Electronics and Clothing are almost level, with Beauty behind.*
 
 ### 5. Revenue by Product Category and Gender (clustered bar chart)
 Splits each category's revenue between male and female customers.
