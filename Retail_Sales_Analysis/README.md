@@ -153,13 +153,13 @@ Compares total revenue across Beauty, Clothing and Electronics.
 ### 5. Revenue by Product Category and Gender (clustered bar chart)
 Splits each category's revenue between male and female customers.
 
-![Revenue by Category and Gender](images/chart-category-by-gender.png)
-> 📸 **Image to add:** the clustered bar chart. **Caption:** *Women lead in Beauty and Clothing, men lead in Electronics.*
+![Revenue by Category and Gender](Images/chart-category-by-gender.png)
+*Women lead in Beauty and Clothing, men lead in Electronics.*
 
 ### 6. What Gender Has the Most Revenue? (bar chart)
 A direct comparison of total revenue by gender.
 
-![Revenue by Gender](images/chart-revenue-by-gender.png)
+![Revenue by Gender](Images/chart-revenue-by-gender.png)
 > 📸 **Image to add:** the gender chart. **Caption:** *Female customers contribute slightly more revenue overall.*
 
 ---
