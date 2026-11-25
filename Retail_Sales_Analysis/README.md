@@ -80,6 +80,8 @@ Retail teams need a fast way to see what is driving revenue. This project turns 
 | `Age-Group` | Text, *calculated* | Age band: 18-24, 25-34, 35-44, 45-54, 55+ |
 | `Month Year` | Text, *calculated* | Month and year, e.g. "November 2023" |
 
+![Data Preview](lmages/Data_preview.png)
+
 
 ## 🧹 Data Preparation
 
@@ -135,14 +137,13 @@ Five headline metrics sit across the top: **Total Transactions, Avg. Customer Ag
 ### 2. Slicers and Timeline
 Slicers for **Gender**, **Product Category** and **Age-Group**, plus a **Date timeline**, sit along the top of the dashboard. See [How to Use](#-how-to-use-the-dashboard).
 
-![Filters](images/filters-slicers.png)
-> 📸 **Image to add:** the slicer and timeline strip, ideally with one filter applied (e.g. Gender = Female) to show it working.
+![Slicers](Images/Slicers.png)
 
 ### 3. Monthly Revenue Trend – 2023 (line chart)
 Shows total revenue for each month. Use it to spot seasonality and the strongest and weakest months.
 
-![Monthly Revenue Trend](images/chart-monthly-revenue-trend.png)
-> 📸 **Image to add:** the line chart on its own. **Caption:** *Revenue peaks in May and dips in September.*
+![Monthly Revenue Trend](Images/chart_monthly_revenue_trend.png)
+*Revenue peaks in May and dips in September.*
 
 ### 4. Revenue by Product Category (bar chart)
 Compares total revenue across Beauty, Clothing and Electronics.
@@ -159,8 +160,8 @@ Splits each category's revenue between male and female customers.
 ### 6. What Gender Has the Most Revenue? (bar chart)
 A direct comparison of total revenue by gender.
 
-![Revenue by Gender](Images/chart-revenue-by-gender.png)
-> 📸 **Image to add:** the gender chart. **Caption:** *Female customers contribute slightly more revenue overall.*
+![Revenue by Gender](Images/chart_revenue_by_gender.png)
+*Female customers contribute slightly more revenue overall.*
 
 ---
 
