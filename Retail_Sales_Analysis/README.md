@@ -3,6 +3,7 @@
 
 An interactive Excel dashboard that analyses 1,000 retail transactions from 2023 to show **how much is sold, what sells, and who is buying**. It is built with an Excel Table, calculated columns, PivotTables, PivotCharts, slicers and a timeline, and all of it is driven from one clean data sheet.
 
+![Dashboard Overview](Images/Dashboard.png)
 ---
 ## 📑 Table of Contents
 
@@ -52,6 +53,8 @@ Retail teams need a fast way to see what is driving revenue. This project turns 
 | Average Transaction Value | **456.00** |
 | Total Units Sold | **2,514** |
 | Average Customer Age | **41.4 years** |
+
+![KPI Cards](Images/KPI.png)
 
 
 ## 🗂️ Dataset
